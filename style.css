@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+}
+
+li{
+    margin-left: 100px;
+    list-style: none;
+    color: brown;
+}
+tr{
+    border: 2px solid red
+}
